@@ -1,0 +1,9 @@
+D:/TX2022/Desktop/C++/Calc2022/build-Calculator2022-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Calculator2022.dir
+D:/TX2022/Desktop/C++/Calc2022/build-Calculator2022-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/TX2022/Desktop/C++/Calc2022/build-Calculator2022-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/TX2022/Desktop/C++/Calc2022/build-Calculator2022-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/TX2022/Desktop/C++/Calc2022/build-Calculator2022-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/TX2022/Desktop/C++/Calc2022/build-Calculator2022-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/TX2022/Desktop/C++/Calc2022/build-Calculator2022-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/TX2022/Desktop/C++/Calc2022/build-Calculator2022-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Calculator2022_autogen_timestamp_deps.dir
+D:/TX2022/Desktop/C++/Calc2022/build-Calculator2022-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/CMakeFiles/Calculator2022_autogen.dir
